@@ -136,3 +136,85 @@
 
 ### `/d/` Pages:
 - [Platinum Card](https://card.americanexpress.com/d/cm/platinum-card/)
+
+## Componen or Features Breakdown
+
+To determine the number of features(components) needed for the 10 templates, let's break down the common features and unique elements across all templates. We will identify reusable components and specific components required for each template.
+
+### Detailed Component Breakdown by Template
+
+**Template 1: Card Details Layout Template**
+- Header
+- Footer
+- Card Details
+- Application Button
+
+**Template 2: Comparison Layout Template**
+- Header
+- Footer
+- Comparison Table
+
+**Template 3: Multi-Filter and Advanced Layout Template**
+- Header
+- Footer
+- Filter Options
+- Card Details
+- Application Button
+
+**Template 4: Legal and Terms Template**
+- Header
+- Footer
+- Legal Information
+
+**Template 5: Login Template**
+- Header
+- Footer
+- Login Form
+
+**Template 6: Recommendation Engine Template**
+- Header
+- Footer
+- User Input Form
+- Recommendations Section
+
+**Template 7: Travel-Focused Template**
+- Header
+- Footer
+- Travel Benefits Section
+
+**Template 8: Premium Benefits Template**
+- Header
+- Footer
+- Premium Benefits Section
+- Application Button
+
+**Template 9: View All Cards Template**
+- Header
+- Footer
+- Card List
+
+**Template 10: MLCP (Multi-Card Landing Pages)**
+- Header
+- Footer
+- Multi-Card Grouping
+- Application Button
+
+### Total Unique Components Required
+We would need a total of ** ~14 unique components** to support the 10 templates identified. Here's the breakdown:
+
+1. Header
+2. Footer
+3. Card Details
+4. Application Button
+5. Comparison Table
+6. Filter Options
+7. User Input Form
+8. Recommendations Section
+9. Travel Benefits Section
+10. Legal Information
+11. Login Form
+12. Premium Benefits Section
+13. Card List
+14. Multi-Card Grouping
+
+These components can be reused across multiple templates, ensuring modularity and efficiency in development.
