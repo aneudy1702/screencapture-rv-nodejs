@@ -1,0 +1,236 @@
+{
+  "urls": [
+    {
+      "url": "https://card.americanexpress.com/d/amex-everyday-preferred-credit-card/",
+      "prefix": "amex_everyday_preferred"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/american-express/?exp=788",
+      "prefix": "american_express_exp_788"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/american-express/?exp=991",
+      "prefix": "american_express_exp_991"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/american-express/?jo_/?exp=1097",
+      "prefix": "american_express_exp_1097"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/american-express/multi-v2/",
+      "prefix": "multi_v2"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/blue-cash-everyday-credit-card-2/",
+      "prefix": "blue_cash_everyday_2"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/blue-cash-everyday-credit-card/",
+      "prefix": "blue_cash_everyday"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/blue-cash-preferred-credit-card-compare/",
+      "prefix": "blue_cash_preferred_compare"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/blue-cash-preferred-credit-card/",
+      "prefix": "blue_cash_preferred"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/bonvoy-bevy-credit-card/",
+      "prefix": "bonvoy_bevy"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cash-back/",
+      "prefix": "cash_back"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/amex-everyday-credit-card/",
+      "prefix": "amex_everyday_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/american-express-login/",
+      "prefix": "american_express_login_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/american-express/recommend/",
+      "prefix": "amex_recommend_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/american-express/static/",
+      "prefix": "american_express_static_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/blue-cash-everyday-credit-card/",
+      "prefix": "blue_cash_everyday_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/blue-cash-everyday-credit-card-2/",
+      "prefix": "blue_cash_everyday_2_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/blue-terms/",
+      "prefix": "blue_terms_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/bonvoy-bevy-credit-card/",
+      "prefix": "bonvoy_bevy_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/cash-magnet-credit-card-compare/",
+      "prefix": "cash_magnet_compare_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/delta-blue-credit-card/",
+      "prefix": "delta_blue_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/green-card/",
+      "prefix": "green_card_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/green-card-compare/",
+      "prefix": "green_card_compare_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/hilton/",
+      "prefix": "hilton_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/platinum-card/",
+      "prefix": "platinum_card_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/rose-gold-card/",
+      "prefix": "rose_gold_card_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/cm/supp-login/",
+      "prefix": "supp_login_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/delta-gold-credit-card/",
+      "prefix": "delta_gold"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/delta-gold-credit-card/multi-v2/",
+      "prefix": "delta_gold_multi_v2"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/delta-reserve-credit-card/",
+      "prefix": "delta_reserve"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/filters/",
+      "prefix": "filters_d"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/gold-card/",
+      "prefix": "gold_card"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/grocery-cards/",
+      "prefix": "grocery_cards"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/hilton-honors-aspire-credit-card/",
+      "prefix": "hilton_honors_aspire"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/hilton-honors-surpass-credit-card/",
+      "prefix": "hilton_honors_surpass"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/multi-filters/",
+      "prefix": "multi_filters"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/platinum-card/",
+      "prefix": "platinum_card"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/rose-gold-card/",
+      "prefix": "rose_gold_card"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/travel/",
+      "prefix": "travel"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/triple-card-filter-everyday/",
+      "prefix": "triple_card_filter_everyday"
+    },
+    {
+      "url": "https://card.americanexpress.com/d/triple-card-filter/",
+      "prefix": "triple_card_filter"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/amex-everyday-credit-card/",
+      "prefix": "amex_everyday"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/american-express/",
+      "prefix": "american_express"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/blue-cash-everyday-credit-card/",
+      "prefix": "blue_cash_everyday"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/blue-terms/",
+      "prefix": "blue_terms"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/bonvoy-brilliant-credit-card/",
+      "prefix": "bonvoy_brilliant"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/card/amex-everyday-credit-card/",
+      "prefix": "amex_everyday_card"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/cm/amex-everyday-credit-card/",
+      "prefix": "amex_everyday_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/cm/american-express/recommend/",
+      "prefix": "amex_recommend_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/cm/american-express/",
+      "prefix": "american_express_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/cm/blue-cash-everyday-credit-card/",
+      "prefix": "blue_cash_everyday_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/cm/blue-terms/",
+      "prefix": "blue_terms_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/cm/delta/",
+      "prefix": "delta_cm"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/delta-blue-credit-card/",
+      "prefix": "delta_blue"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/filters/",
+      "prefix": "filters"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/gold-card/light/",
+      "prefix": "gold_card_light"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/hilton-honors-aspire-credit-card/",
+      "prefix": "hilton_honors_aspire"
+    },
+    {
+      "url": "https://card.americanexpress.com/m/hilton-honors-surpass-credit-card/",
+      "prefix": "hilton_honors_surpass"
+    }
+  ]
+}
