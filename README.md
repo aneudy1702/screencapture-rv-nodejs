@@ -2,16 +2,14 @@
 
 ### Investigation Summary
 
-**During my investigation of the Red Ventures pages, I found 8 different types of templates. Below is a detailed list and definition of each template, followed by a breakdown of the pages using these templates along with their 
+**During my investigation of the Red Ventures pages, I found 10 different types of templates. Below is a detailed list and definition of each template, followed by a breakdown of the pages using these templates along with their 
 
-### Revised Template Definitions and Categorization
-
-**Template 1: Standard Card Layout Template**
-- **Definition**: Pages providing detailed information about specific credit cards, including benefits, application process, and terms. Features a prominent header, sections for card benefits, application buttons, and user testimonials or reviews.
+**Template 1: Card Details Layout Template**
+- **Definition**: Pages providing detailed information about a single specific credit card, including benefits, application process, and terms. Features a prominent header, sections for card benefits, application buttons, and user testimonials or reviews.
 - **Common Features**: Header, main benefits section, application button, footer.
 
 **Template 2: Comparison Layout Template**
-- **Definition**: Pages allowing users to compare multiple credit cards side-by-side, highlighting differences in card benefits, rewards, fees, and other vital features.
+- **Definition**: Pages allowing users to compare multiple credit cards side-by-side, highlighting differences in card benefits, rewards, fees, and other key features.
 - **Common Features**: Header, comparison table, footer.
 
 **Template 3: Multi-Filter and Advanced Layout Template**
@@ -19,7 +17,7 @@
 - **Common Features**: Header, filter options, results section, footer.
 
 **Template 4: Legal and Terms Template**
-- **Definition**: Pages presenting legal information, terms, and conditions, focusing on readability and clarity.
+- **Definition**: Pages presenting legal information, terms and conditions, focusing on readability and clarity.
 - **Common Features**: Header, main content with legal details, footer.
 
 **Template 5: Login Template**
@@ -38,9 +36,17 @@
 - **Definition**: Pages showcasing premium credit cards with exclusive benefits and rewards, featuring detailed descriptions of luxury benefits, rewards programs, and application options.
 - **Common Features**: Header, premium benefits section, footer.
 
+**Template 9: View All Cards Template**
+- **Definition**: Pages displaying a list of all available credit cards, often with options to filter and sort the list.
+- **Common Features**: Header, card list, filter/sort options, footer.
+
+**Template 10: MLCP (Multi-Card Landing Pages)**
+- **Definition**: Pages that group cards by partners, providing an overview of multiple credit cards associated with a specific partner or category.
+- **Common Features**: Header, card grouping by partner, overview of benefits, application buttons for each card, footer.
+
 ### Categorization of Pages by Templates
 
-**Template 1: Standard Card Layout Template**
+**Template 1: Card Details Layout Template**
 
 ### `/m/` Only Pages:
 - [Delta Blue Credit Card](https://card.americanexpress.com/m/delta-blue-credit-card/)
@@ -49,12 +55,7 @@
 - [Hilton Honors Aspire Credit Card](https://card.americanexpress.com/m/hilton-honors-aspire-credit-card/)
 
 ### `/d/` Pages:
-- [Hilton](https://card.americanexpress.com/d/cm/hilton/)
-- [Cash Magnet Credit Card](https://card.americanexpress.com/d/cash-magnet-credit-card/)
-- [Delta](https://card.americanexpress.com/d/cm/delta/)
-- [Blue Cash Everyday Credit Card 2](https://card.americanexpress.com/d/cm/blue-cash-everyday-credit-card-2/)
 - [Green Card](https://card.americanexpress.com/d/cm/green-card/)
-- [American Express](https://card.americanexpress.com/d/cm/american-express/)
 - [Blue Cash Preferred](https://card.americanexpress.com/d/cm/blue-cash-preferred/)
 - [Bonvoy Bevy Credit Card](https://card.americanexpress.com/d/cm/bonvoy-bevy-credit-card/)
 
@@ -81,7 +82,7 @@
 - [Multi-v2](https://card.americanexpress.com/d/american-express/multi-v2/)
 - [Multi Filters](https://card.americanexpress.com/d/american-express/?jo_/?exp=1097)
 - [Multi-v2](https://card.americanexpress.com/d/american-express/?exp=788)
-- [Triple Card Filter every day](https://card.americanexpress.com/d/triple-card-filter-everyday/)
+- [Triple Card Filter Everyday](https://card.americanexpress.com/d/triple-card-filter-everyday/)
 - [Triple Card Filter](https://card.americanexpress.com/d/triple-card-filter/)
 
 ### `/m/` Only Pages:
@@ -118,7 +119,20 @@
 ### `/d/` Pages:
 - [Rose Gold Card](https://card.americanexpress.com/d/rose-gold-card/)
 
-**Unique Layouts**
+**Template 9: View All Cards Template**
+
+### `/d/` Pages:
+- [American Express](https://card.americanexpress.com/d/cm/american-express/)
+- [Blue Cash Everyday Credit Card 2](https://card.americanexpress.com/d/cm/blue-cash-everyday-credit-card-2/)
+
+**Template 10: MLCP (Multi-Card Landing Pages)**
+
+### `/d/` Pages:
+- [Delta](https://card.americanexpress.com/d/cm/delta/)
+- [Hilton](https://card.americanexpress.com/d/cm/hilton/)
+- [Cash Magnet Credit Card](https://card.americanexpress.com/d/cash-magnet-credit-card/)
+
+**Unique Layout**
 
 ### `/d/` Pages:
 - [Platinum Card](https://card.americanexpress.com/d/cm/platinum-card/)
